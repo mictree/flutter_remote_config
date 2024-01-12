@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "65860810077",
+    "project_id": "mtri-remote-config",
+    "storage_bucket": "mtri-remote-config.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65860810077:android:a6cbf3d37f03946dd8a4b4",
+        "android_client_info": {
+          "package_name": "com.example.remote_config"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDECJP0b7CZEdPizGIz_urQK32Cn9NW99Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
